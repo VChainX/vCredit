@@ -1,0 +1,4 @@
+Building vcredit
+See doc/readme-qt.rst for instructions on building vcredit QT.
+
+See doc/build-*.txt for instructions on building vcreditd.
