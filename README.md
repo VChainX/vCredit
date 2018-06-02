@@ -1,27 +1,36 @@
-Development process
+About vCredit
 ===========================
 
-Developers work in their own trees, then submit pull requests when
-they think their feature or bug fix is ready.
+vCredit offers an easy way to create a unique cryptocurrency, to anybody who doesn’t own strong technical background or knowledge. vCredit’s advantage compared to other platforms is that the currencies issued are highly customizable and aren’t depending on any other chains or platforms.
 
-The patch will be accepted if there is broad consensus that it is a
-good thing.  Developers should expect to rework and resubmit patches
-if they don't match the project's coding conventions (see coding.txt)
-or are controversial.
+Specs
 
-The master branch is regularly built and tested, but is not guaranteed
-to be completely stable. Tags are regularly created to indicate new
-stable release versions of vcredit.
+X11 POW/POS Hybrid
+Name: vCredit
+Ticker: VCX
 
-Feature branches are created when there are major new features being
-worked on by several people.
+Max Supply: 210 000 000 (210 million)
+Block reward: 100 VCX (fixed - no halving)
+Maturity: 20 Confirmations
+PoS starts at: half mining phase (block 1021651)
+Min Stake Age: 12 hours
+Block Time: 120 seconds
+Yearly interest: 80%
 
-From time to time a pull request will become outdated. If this occurs, and
-the pull is no longer automatically mergeable; a comment on the pull will
-be used to issue a warning of closure. The pull will be closed 15 days
-after the warning if action is not taken by the author. Pull requests closed
-in this manner will have their corresponding issue labeled 'stagnant'.
 
-Issues with no commits will be given a similar warning, and closed after
-15 days from their last activity. Issues closed in this manner will be
-labeled 'stale'.
+RPC Port: 36520
+P2P Port: 36522
+
+
+Timeline
+===========================
+
+* 03/06/2018 - Public announcement
+* 03/06/2018 - Windows wallet release
+* 03/06/2018 - Linux wallet release
+* 03/06/2018 - Mac wallet release
+* 03/06/2018 - Block Explorer launched
+* 03/06/2018 - Website launched
+* 03/06/2018 - Service update
+* 03/06/2018 - Whitepaper released
+* 03/06/2018 - Source code available
