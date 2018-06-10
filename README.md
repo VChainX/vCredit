@@ -8,7 +8,7 @@ Specs
 * X11 POW/POS Hybrid
 * Name: vCredit
 * Ticker: VCX
-* Website : http://www.vcredit.org
+* Website : https://www.vcredit.org
 * Explorer : http://explorer.vcredit.org:3001
 
 * Max Supply: 210 000 000 (210 million)
