@@ -27,15 +27,14 @@ Specs
 Timeline
 ===========================
 
-* 03/06/2018 - Public announcement
+* 14/06/2018 - Public announcement
 * 03/06/2018 - Windows wallet release
 * 03/06/2018 - Linux wallet release
 * 03/06/2018 - Mac wallet release
 * 03/06/2018 - Block Explorer launched
-* 03/06/2018 - Website launched
-* 03/06/2018 - Service update
-* 03/06/2018 - Whitepaper released
-* 03/06/2018 - Source code available
+* 01/06/2018 - Website launched
+* 03/08/2018 - Whitepaper released
+* 15/05/2018 - Source code available
 
 
 License
