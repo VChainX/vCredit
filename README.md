@@ -10,7 +10,8 @@ Specs
 * Ticker: VCX
 * Website : https://www.vcredit.org
 * Explorer : http://explorer.vcredit.org:3001
-
+* Announcement : https://bitcointalk.org/index.php?topic=4470358.0
+* Pool : https://xpool.org
 * Max Supply: 210 000 000 (210 million)
 * Block reward: 100 VCX (fixed - no halving)
 * Maturity: 20 Confirmations
