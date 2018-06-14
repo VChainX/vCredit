@@ -1,7 +1,7 @@
 About vCredit
 ===========================
 
-vCredit offers an easy way to create a unique cryptocurrency, to anybody who doesn’t own strong technical background or knowledge. vCredit’s advantage compared to other platforms is that the currencies issued are highly customizable and aren’t depending on any other chains or platforms.
+vCredit [VCX] offers an easy way to create a unique cryptocurrency, to anybody who doesn’t own strong technical background or knowledge. vCredit’s advantage compared to other platforms is that the currencies issued are highly secured and aren’t aim for short term investment. We have dedicated team will be focus on long term blockchain development.
 
 Specs
 
